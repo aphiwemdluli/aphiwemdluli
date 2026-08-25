@@ -1,4 +1,4 @@
-# Hi, I'm Aphiwe Mdluli 👋🏽
+# Hi, I'm Aphiwe Mdluli
 
 **Biomedical Engineering Student | University of the Witwatersrand**
 
@@ -85,8 +85,8 @@ BEngSc — Biomedical Engineering
 
 ## Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/aphiwe-mdluli/)
-* 📧 Email: aphiwe.mdluli15@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/aphiwe-mdluli/)
+* Email: aphiwe.mdluli15@gmail.com
 
 ---
 
